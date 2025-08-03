@@ -34,9 +34,6 @@ yaml
 Copy
 Edit
 
-## 📷 Screenshots
-
-*Add screenshots here if needed*
 
 ## 📬 Contact
 
